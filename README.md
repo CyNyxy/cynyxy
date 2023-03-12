@@ -36,5 +36,5 @@
 <h3>⭐️&nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://github.com/CyNyxy"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://github.com/CyNyxy"><img alt="Instagram" src="https://img.shields.io/badge/Github-cynyxy-blue?style=flat-square&logo=github"></a>
 </p>
