@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Exploring new technologies and developing web app solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Fronted dev, Web3 DApps and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Frontend dev, Web3 DApps and Artificial Intelligence.
+- ✍️ &nbsp; Building a minting DApp -> NFT collection coming soon !
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
