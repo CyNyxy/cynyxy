@@ -32,8 +32,9 @@
 </a>
 
 <br/>
+<br/>
 
-<h3>⭐️&nbsp;Connect with Me </h3>
+[ >> Check my Portfolio <<](https://nyxy-portfolio.netlify.app)
 
 <p align="center">
 <a href="https://github.com/CyNyxy"><img alt="Instagram" src="https://img.shields.io/badge/Github-cynyxy-blue?style=flat-square&logo=github"></a>
